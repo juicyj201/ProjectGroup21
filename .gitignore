@@ -3,3 +3,6 @@
 
 #NetBeans specifics
 
+/nbproject/
+/JavaLibrary1/nbproject/private/
+/JavaLibrary2/nbproject/private/
